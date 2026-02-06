@@ -1,0 +1,18 @@
+{
+    "name": "DappToken16 Sale",
+    "version": "1.0.0",
+    "description": "DappToken16 Sale for Udemy Course",
+    "main": "truffle-config.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "dev": "lite-server"
+    },
+    "author": "Yash Chauhan",
+    "license": "ISC",
+    "devDependencies": {
+        "lite-server": "^2.3.0"
+    }
+
+}
